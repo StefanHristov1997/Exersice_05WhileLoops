@@ -1,2 +1,2 @@
-# Exersice_05WhileLoops
+# Exercise_05WhileLoops
  FirstStepsInCoding
